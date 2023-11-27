@@ -36,19 +36,53 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+Developed by : HARSHINI R
 
+Register Number : 23002309
 
-### TRUTH TABLE 
+Code :
+
+Full Adder : 
+
+![Exp3 fa code](https://github.com/Harshhinii/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148633023/19c80ce4-cc55-48cd-8cbf-29d155a409af)
+
+Half Adder : 
+
+![Exp3 ha code](https://github.com/Harshhinii/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148633023/dfb70ffa-2445-45be-97cf-89ee0ae0b74c)
+
+Truth Table :
+
+Full Adder :
+
+![Exp3 truthtable (fa)](https://github.com/Harshhinii/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148633023/7df987ae-43a9-4b26-be3a-6599252adee7)
+
+Half Adder :
+
+![Exp3 truthtable (ha)](https://github.com/Harshhinii/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148633023/8f52ad73-bc8b-4f16-9b7e-00dbce90cbd2)
+
+RTL realization :
+
+Full Adder :
+
+![Exp3 fa RTL diagram](https://github.com/Harshhinii/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148633023/3d5b3dca-53ae-42c2-b2b4-466e9cfe1269)
+
+Half Adder :
+
+![Exp3 ha RTL diagram](https://github.com/Harshhinii/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148633023/8472b110-01bb-45e1-b721-e6340d45f0cf)
+
+## Output :
+
+Full Adder :
+
+![Exp3 fa wave](https://github.com/Harshhinii/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148633023/5f661ac6-259d-4a6a-8dec-e5a8bf7eec2c)
+
+Half Adder :
+
+![Exp3 ha wave](https://github.com/Harshhinii/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148633023/090f5339-b400-49bd-8e62-54f424d66b0a)
 
 ### Result:
+
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
